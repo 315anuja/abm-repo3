@@ -19,7 +19,7 @@ public class Customer {
     private String profilePic;
     private String password;
     private int orgId;
-    
+    private int userId;
     
 	public String getName() {
 		return name;
