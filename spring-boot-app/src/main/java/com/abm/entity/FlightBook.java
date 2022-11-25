@@ -11,7 +11,8 @@ public class FlightBook {
 	
 	private int bId;
 	private LocalDateTime flightDate;
-	private String 
+	private String flightName;
+	
 	
 
 }
