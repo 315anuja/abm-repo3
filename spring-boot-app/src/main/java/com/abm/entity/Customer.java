@@ -18,6 +18,7 @@ public class Customer {
     private String mobileNumber;
     private String profilePic;
     private String password;
+    private int orgId;
     
     
 	public String getName() {
